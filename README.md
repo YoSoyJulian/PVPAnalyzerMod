@@ -45,7 +45,7 @@ Muestra tus estadísticas actuales (si está activo).
 
 ## ✍️ Créditos
 
-- 💡 Idea original: [@YoSoyJulian](https://github.com/YoSoyJulian)
+- 💡 Idea original: [@YoSoyJulian](https://github.com/YoSoyJulian) / YoSoyStrange
 - 🤖 Asistencia en lógica y correcciones: ChatGPT & Gemini
 - 🧪 Inspirado por mi experiencia personal frustrante en PvP 😅
 
